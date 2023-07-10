@@ -1,0 +1,5 @@
+[node]
+elk_vm_name ansible_host=172.16.3.10
+
+[all:vars]
+ansible_python_interpreter=/usr/bin/python3
